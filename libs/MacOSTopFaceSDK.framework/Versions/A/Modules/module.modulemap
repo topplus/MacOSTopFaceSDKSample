@@ -1,0 +1,6 @@
+framework module MacOSTopFaceSDK {
+  umbrella header "MacOSTopFaceSDK.h"
+
+  export *
+  module * { export * }
+}

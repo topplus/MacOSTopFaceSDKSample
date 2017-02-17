@@ -1,6 +1,5 @@
 .DS_Store
 Build/
-libs/
 *.xcuserstate  
 project.xcworkspace  
 xcuserdata  
