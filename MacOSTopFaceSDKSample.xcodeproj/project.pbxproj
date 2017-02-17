@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		955D48381E558E3500A9F3D4 /* opencv2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 95DB9E5C1E53106300D7F46B /* opencv2.framework */; };
-		95BDDDEA1E545E7E00BA4EB2 /* resource.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 95BDDDE91E545E7E00BA4EB2 /* resource.bundle */; };
+		955D4DB11E5716E000A9F3D4 /* resource.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 955D4DB01E5716E000A9F3D4 /* resource.bundle */; };
 		95DB9E481E530FD800D7F46B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 95DB9E471E530FD800D7F46B /* AppDelegate.m */; };
 		95DB9E4B1E530FD800D7F46B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 95DB9E4A1E530FD800D7F46B /* main.m */; };
 		95DB9E4E1E530FD800D7F46B /* ViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 95DB9E4D1E530FD800D7F46B /* ViewController.mm */; };
@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		95BDDDE91E545E7E00BA4EB2 /* resource.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = resource.bundle; path = libs/MacOSTopFaceSDK.framework/Resources/resource.bundle; sourceTree = "<group>"; };
+		955D4DB01E5716E000A9F3D4 /* resource.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = resource.bundle; path = libs/MacOSTopFaceSDK.framework/Versions/A/Resources/resource.bundle; sourceTree = "<group>"; };
 		95DB9E431E530FD800D7F46B /* MacOSTopFaceSDKSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MacOSTopFaceSDKSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		95DB9E461E530FD800D7F46B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		95DB9E471E530FD800D7F46B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -54,7 +54,7 @@
 		95DB9E3A1E530FD800D7F46B = {
 			isa = PBXGroup;
 			children = (
-				95BDDDE91E545E7E00BA4EB2 /* resource.bundle */,
+				955D4DB01E5716E000A9F3D4 /* resource.bundle */,
 				95DB9E451E530FD800D7F46B /* MacOSTopFaceSDKSample */,
 				95DB9E441E530FD800D7F46B /* Products */,
 				95DB9E5A1E53106300D7F46B /* Frameworks */,
@@ -161,7 +161,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				95BDDDEA1E545E7E00BA4EB2 /* resource.bundle in Resources */,
+				955D4DB11E5716E000A9F3D4 /* resource.bundle in Resources */,
 				95DB9E501E530FD800D7F46B /* Assets.xcassets in Resources */,
 				95DB9E531E530FD800D7F46B /* Main.storyboard in Resources */,
 			);
