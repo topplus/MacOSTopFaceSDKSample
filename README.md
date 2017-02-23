@@ -3,10 +3,18 @@ TopFaceSDK Mac版本 示例工程
 <br>
 [官网](http://www.voome.cn)
 <br>
+##开发环境说明
+<br>
+Xcode7.0及以上版本
+<br>
+##支持平台说明
+<br>
+支持MacOS10.6及以上系统
+<br>
 ##接入流程
 ###依赖库导入
 <br>
-人脸标注模块，所依赖的库文件为: MacOSTopFaceSDK.framework，需添加到Mac项目中。
+人脸标注模块，所依赖的库文件为:MacOSTopFaceSDK.framework，需添加到Mac项目中。
 <br>
 ###授权认证
 <br>
